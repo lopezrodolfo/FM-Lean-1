@@ -1,4 +1,4 @@
-# Lean Mathematical Functions and Type Implementations
+# Lean3 Mathematical Functions and Type Implementations
 
 This Lean project contains solutions for various programming exercises, including:
 
